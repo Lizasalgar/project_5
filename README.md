@@ -1,0 +1,2 @@
+Este proyecto tiene por objetivo la creación y gestión de entornos virtuales de Python, el desarrollo de una aplicación web y su despliegue en un servicio en la nube. 
+La aplicación web sirve para analizar el conjunto de datos de anuncios de venta de autos a través de la creación de un histograma y un gráfico de dispersión. 
