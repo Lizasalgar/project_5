@@ -1,3 +1,4 @@
  pandas
  plotly_express
  streamlit
+ altair==4.0.0
